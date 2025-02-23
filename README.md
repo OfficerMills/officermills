@@ -4,7 +4,7 @@ Hi! I'm Officer Mills, and I am new in the coding/development world and chose to
 
 <div align="center">
   
-![Officer Mills GitHub stats](https://github-readme-stats.vercel.app/api/?username=officermills&theme=dark&show_icons=true&theme=tokyo_night)
+![Officer Mills GitHub stats](https://github-readme-stats.vercel.app/api/?username=officermills&show_icons=true&theme=tokyo_night)
 </div>
 
 ## 🔗 My Links
