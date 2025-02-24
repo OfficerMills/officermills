@@ -21,5 +21,5 @@ Hi! I'm Officer Mills, and I am new in the coding/development world and chose to
 
 <div align="center">
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qwrsrzg5lwvjzva6cy72cqsqce&count={count})
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31qwrsrzg5lwvjzva6cy72cqsqce)
 </div>
