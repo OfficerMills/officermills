@@ -6,7 +6,10 @@ Hi! I'm Officer Mills, and I am new in the coding/development world and chose to
   
 ![Officer Mills GitHub stats](https://github-readme-stats.vercel.app/api/?username=officermills&theme=cobalt&show_icons=true)
 </div>
+<div align="center">
 
+![Discord](https://img.shields.io/discord/1063028749169332284?logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.gg%2Frc3FXthyzD)
+</div>
 ## 🔗 My Links
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rc3FXthyzD)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/officermills)
