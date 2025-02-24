@@ -12,14 +12,13 @@ Hi! I'm Officer Mills, and I am new in the coding/development world and chose to
 ![Discord](https://img.shields.io/discord/1063028749169332284?logo=discord&label=Discord&style=plastic&link=https%3A%2F%2Fdiscord.gg%2Frc3FXthyzD)
 ![](https://komarev.com/ghpvc/?username=officermills&color=green&style=plastic&label=PROFILE+VIEWS)
 </div>
+<div align="center">
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31qwrsrzg5lwvjzva6cy72cqsqce)
+</div>
 
 ## 🔗 My Links
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rc3FXthyzD)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/officermills)
 [![Twitter](https://img.shields.io/badge/tiktok-1DA1F2?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@officer_mills)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@officer_mills)
-
-<div align="center">
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31qwrsrzg5lwvjzva6cy72cqsqce)
-</div>
