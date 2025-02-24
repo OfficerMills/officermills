@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.imgur.com/lqkMqDO.png](https://i.imgur.com/Rw6xhMA.png)" alt="One World RP Logo">
+  <img src="https://i.imgur.com/Rw6xhMA.png" alt="One World RP Logo">
 </p>
 
 # 💬 About [Officer Mills](https://github.com/OfficerMills)
