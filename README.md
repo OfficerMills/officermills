@@ -9,7 +9,7 @@ Hi! I'm Officer Mills, and I am new in the coding/development world and chose to
 </div>
 <div align="center">
 
-![Discord](https://img.shields.io/discord/1063028749169332284?logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.gg%2Frc3FXthyzD)
+![Discord](https://img.shields.io/discord/1063028749169332284?logo=discord&label=Discord&style=plastic&link=https%3A%2F%2Fdiscord.gg%2Frc3FXthyzD)
 ![](https://komarev.com/ghpvc/?username=officermills&color=green&style=plastic&label=PROFILE+VIEWS)
 </div>
 
