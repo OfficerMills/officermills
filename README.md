@@ -23,7 +23,4 @@ Hi! I'm Officer Mills, and I am new in the coding/development world and chose to
 [![Twitter](https://img.shields.io/badge/tiktok-1DA1F2?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@officer_mills)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@officer_mills)
 
-<div align="center">  
-
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/Rw6xhMA.png">
-</div>
+<img align="center" alt="Coding" width="400" src="https://i.imgur.com/Rw6xhMA.png">
