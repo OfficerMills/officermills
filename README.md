@@ -9,7 +9,6 @@ Hi! I'm Officer Mills, and I am new in the coding/development world and chose to
 <div align="center">
   
 ![Officer Mills GitHub stats](https://github-readme-stats.vercel.app/api/?username=officermills&theme=cobalt&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=officermills&theme=neon-dark)](https://git.io/streak-stats)
 </div>
 <div align="center">
 
