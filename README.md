@@ -7,7 +7,7 @@
   </a>
 </p>
 
-https://github-profile-trophy.vercel.app/?username=officermills&column=3&margin-w=15&margin-h=15
+![OfficerMills](https://github-profile-trophy.vercel.app/?username=officermills&column=3&margin-w=15&margin-h=15)
 
 # 💬 About [Officer Mills](https://github.com/OfficerMills)
 
