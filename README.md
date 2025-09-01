@@ -6,6 +6,8 @@
     <img src="https://skillicons.dev/icons?i=git,github,react,vue,discord,bots,discordjs,dotnet,html,instagram,js,lua,mysql,nextjs,nginx,nodejs,npm,powershell,py,react,sqlite,twitter,visualstudio,vue,vscode,windows&perline=13" />
   </a>
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=officermills)](https://github.com/officermills/github-profile-trophy)
+
 
 # 💬 About [Officer Mills](https://github.com/OfficerMills)
 
