@@ -9,7 +9,11 @@
 
 ![OfficerMills](https://github-profile-trophy.vercel.app/?username=officermills&theme=flat&column=-1)
 
-# 💬 About [Officer Mills](https://github.com/OfficerMills)
+# 💬 About [Officer Mills](https://github.com/OfficerMills) <p align="center">
+  <a href="https://cash.app/$OfficerMill">
+    <img src="https://img.shields.io/badge/Donate%20via-Cash%20App-00C244?style=for-the-badge&logo=cashapp&logoColor=white&labelColor=000000" />
+  </a>
+</p>
 
 Hi! I'm Officer Mills, and I am new in the coding/development world and chose to get into the FiveM environment in particular for the love of GTA5 RP. I am the former owner of a FiveM server - One World Role Play. I have since handed over the reigns and went on to develop for another server with an awesome group of people. I  have recently started branching out into html and css due to being in the roleplay world as their is much need for UI's as well as many other things. I do not consider myself what most refer to as a "FiveM developer," although I have been able to learn allot in a very short amount of time. Maybe I could go with "beginner?" We all start somewhere right? I do stream on Twitch and TikTok both occasionally, when I find the time. I grew up in the middle of nowhere(Middle) TN. I should say that I have spent 90% of my 36yr life on a farm, so this coding world is certainly a different change of pace for me but I am loving learning so far.
 
