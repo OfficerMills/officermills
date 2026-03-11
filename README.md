@@ -33,3 +33,8 @@ Hi! I'm Officer Mills, and I am new in the coding/development world and chose to
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/officermills)
 [![Twitter](https://img.shields.io/badge/tiktok-1DA1F2?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@officer_mills)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@officer_mills)
+<p align="center">
+  <a href="https://cash.app/$OfficerMill">
+    <img src="https://img.shields.io/badge/Donate%20via-Cash%20App-00C244?style=for-the-badge&logo=cashapp&logoColor=white&labelColor=000000" />
+  </a>
+</p>
