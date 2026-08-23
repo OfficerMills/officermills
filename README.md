@@ -15,7 +15,9 @@ Hi! I'm Officer Mills, and I am new in the coding/development world and chose to
 <div align="center">
   
 ![Officer Mills GitHub stats](https://github-readme-stats.vercel.app/api/?username=officermills&theme=cobalt&show_icons=true)
+
 </div>
+
 <div align="center">
 
 ![Discord](https://img.shields.io/discord/1063028749169332284?logo=discord&label=Discord&style=plastic&link=https%3A%2F%2Fdiscord.gg%2Frc3FXthyzD)
