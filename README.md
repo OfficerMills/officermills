@@ -4,7 +4,8 @@
   </a>
 </p>
 
-![OfficerMills](https://github-profile-trophy.vercel.app/?username=officermills&theme=flat&column=-1)
+[![OfficerMills](https://github-profile-trophy.vercel.app/?username=officermills&theme=flat&column=-1)
+[![GitHub Readme Profile](https://gh-readme-profile.vercel.app/api?username=OfficerMills&theme=apprentice&title=DEVELOPMENT+STATS&hide=forks%2Cprs%2Cprs_merged&show=reviews&border_width=0.5&border_radius=8&photo_resize=225&photo_quality=100&revert=false&hide_border=false&hide_stroke=true&bg_color=00152E&title_color=6EFFF8&username_color=600000)](https://bit.ly/gh-readme-profile)
 
 # 💬 About [Officer Mills](https://github.com/OfficerMills) 
 
