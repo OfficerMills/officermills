@@ -3,7 +3,8 @@
     <img src="https://skillicons.dev/icons?i=git,github,react,vue,discord,bots,discordjs,dotnet,html,instagram,js,lua,mysql,nextjs,nginx,nodejs,npm,powershell,py,react,sqlite,twitter,visualstudio,vue,vscode,windows&perline=13" />
   </a>
 </p>
-[![GitHub Readme Profile](https://gh-readme-profile.vercel.app/api?username=OfficerMills&theme=apprentice&title=DEVELOPMENT+STATS&hide=forks%2Cprs%2Cprs_merged&show=reviews&border_width=0.5&border_radius=8&photo_resize=225&photo_quality=100&revert=false&hide_border=false&hide_stroke=true&bg_color=00152E&title_color=6EFFF8&username_color=600000)
+
+<a href="https://bit.ly/gh-readme-profile"><img src="https://gh-readme-profile.vercel.app/api?username=OfficerMills&theme=apprentice&title=DEVELOPMENT+STATS&hide=forks%2Cprs%2Cprs_merged&show=reviews&border_width=0.5&border_radius=8&photo_resize=225&photo_quality=100&revert=false&hide_border=false&hide_stroke=true&bg_color=00152E&title_color=6EFFF8&username_color=600000" alt="GitHub Readme Profile"/></a>
 
 # 💬 About [Officer Mills](https://github.com/OfficerMills) 
 
