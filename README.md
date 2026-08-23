@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="https://i.imgur.com/Rw6xhMA.png" alt="One World RP Logo">
-</p>
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,react,vue,discord,bots,discordjs,dotnet,html,instagram,js,lua,mysql,nextjs,nginx,nodejs,npm,powershell,py,react,sqlite,twitter,visualstudio,vue,vscode,windows&perline=13" />
   </a>
