@@ -36,6 +36,6 @@ Hi! I'm Officer Mills, and I am new in the coding/development world and chose to
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@officer_mills)
 <p align="center">
   <a href="https://cash.app/$OfficerMill">
-    <img src="https://img.shields.io/badge/Donate%20via-Cash%20App-00C244?style=for-the-badge&logo=cashapp&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Donate%20via-Cash%20App-00C244?style=plastic&logo=cashapp&logoColor=white&labelColor=000000" />
   </a>
 </p>
